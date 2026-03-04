@@ -1,0 +1,22 @@
+{
+  "name": "wasteland-marketplace",
+  "owner": {
+    "name": "Kyle Snow Schwartz",
+    "email": "kyle.snowschwartz@gmail.com",
+    "url": "https://github.com/kylesnowschwartz"
+  },
+  "metadata": {
+    "description": "Wasteland federation plugin for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "wasteland",
+      "source": ".",
+      "description": "Join and participate in the Wasteland federation — browse work, claim tasks, submit completions, earn reputation.",
+      "version": "1.0.0",
+      "category": "workflow",
+      "keywords": ["wasteland", "federation", "dolt", "dolthub"]
+    }
+  ]
+}

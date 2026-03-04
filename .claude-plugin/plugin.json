@@ -1,0 +1,12 @@
+{
+  "name": "wasteland",
+  "version": "1.0.0",
+  "description": "Join and participate in the Wasteland federation — browse work, claim tasks, submit completions, earn reputation. Uses Dolt + DoltHub.",
+  "author": {
+    "name": "Kyle Snow Schwartz",
+    "email": "kyle.snowschwartz@gmail.com"
+  },
+  "repository": "https://github.com/kylesnowschwartz/wasteland-skills",
+  "license": "MIT",
+  "keywords": ["wasteland", "federation", "dolt", "dolthub", "reputation", "work-economy"]
+}
